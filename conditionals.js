@@ -1,5 +1,6 @@
 const temperature = 12;
 
+//a comment
 if (temperature < 0) {
   console.log("Make sure you pick out a scarf!");
 } else if (temperature < 15) {
